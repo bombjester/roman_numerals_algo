@@ -1,2 +1,3 @@
 # roman_numerals_algo
-Changes roman numerals into integer
+
+Prompt: Changes roman numerals into integer. Ex: XXI = 21
